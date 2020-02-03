@@ -1,3 +1,4 @@
+include <stdio.h>
 int main()
 {
   printf("Hollow world!"\n);

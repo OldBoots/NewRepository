@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("Hollow world!\n");
+  printf("Hollow HUY!\n");
     return 0;
 }
 
